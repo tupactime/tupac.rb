@@ -40,5 +40,5 @@ MIT
 Related
 -------
 - https://github.com/tupactime/secondssincetupac.com
-- https://github.com/tupactime/tupac.rb
+- https://github.com/tupactime/tupac.js
 - http://secondssincetupac.com
