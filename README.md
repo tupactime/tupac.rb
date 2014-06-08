@@ -36,3 +36,9 @@ Time.at_2pac(0) # => 1996-09-13 19:03:00 -0400
 ## License
 
 MIT
+
+Related
+-------
+- https://github.com/tupactime/secondssincetupac.com
+- https://github.com/tupactime/tupac.rb
+- http://secondssincetupac.com
