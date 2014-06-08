@@ -2,8 +2,8 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
-  gem.name          = '2pac-time'
-  gem.version       = '0.0.1'
+  gem.name          = 'tupac'
+  gem.version       = '0.0.2'
   gem.license       = 'MIT'
   gem.authors       = ['Larry Fox', 'Skylar Challand']
   gem.email         = ['larry@oakmade.com']

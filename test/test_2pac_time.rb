@@ -1,6 +1,6 @@
 require 'test/unit'
-require '2pac-time'
-require '2pac-time/ext'
+require 'tupac'
+require 'tupac/ext'
 
 class Time
   def self.now

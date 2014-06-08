@@ -1,4 +1,4 @@
-require '2pac-time'
+require 'tupac'
 
 class Time
   def to_2pac
